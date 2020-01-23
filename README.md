@@ -1,5 +1,4 @@
 # StopwatchSFML
 
-<img src="images/ScreenShot.png" width="150">
+<img src="images/ScreenShot.png" width="450">
 
-![](images/ScreenShot.png)
